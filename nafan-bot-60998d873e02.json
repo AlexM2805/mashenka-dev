@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nafan-bot",
+  "private_key_id": "60998d873e02d686ca6337f110b6dea7ca7371db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDg1MIeu63HJGT1\n+IpW9JzKsaK+7PGLm6G6jY2r9CdPuMW/Xx/neA6mEVqF5FeaHf+npANkNou2S0qP\nxvN+9i4HluELgeuaeIPL0xCNAajmxsN6RA2hnTTnGBs2rSJ5MsxfQIzPTCZg3v5m\nkYVy8c+XJEcCsSliIqslfePZg6Ci2mku/7mPBnjkWduHDKvLH6oQ3n04XmZBO6eK\nzI39/Z7nCIdlqcEfRUeDbk1V1SQ7a1AlryIl3+JMVLiX2Ln4FUl9C8l1XszPOhtk\neekUJvmzABygiM6FuyhyHUk60UXhMP8csx4m3JemWPcgHDEb7hU7ZTx4uqlh+S0W\nvTKrMecnAgMBAAECggEAU6Lh2aPwd9nSkuvTrphNcVuWUpb7HfeVuLuqvZJUQ2RV\nb6TXzfgL3vwqpA83BVZugbLSLifaXkRw5r5YW10B74HRksHQXsTBJoQMLqA08DB1\njFifh4TfJq6BhRvv7I0YmMB/AShvSG77zTUKIyHQGwX8QoScA+0opIhJx+Me0SVj\nGNVL8j9861FSLyvrjSVg5Qlq4mbeESd2W7ADkoCGssXzdxMPxPoWqqs2QFJfxU1r\nuRXqNUf8OsrCArVmO/tWkE4ZkjVbl2oiyPkUYIAf9jqr1tBeb3EC48cyjdcLxyiZ\njB1tLR2FJ0f2jCggWPf8N2AYTAoFr3oo2sOMcoRrxQKBgQD2MTPNz/N4UAp0cBG7\nqHHXnVWmsULknQH5QmBbIcDGD0KhaqJrvJblL0aBOcXuNI5geCQF9p9Nmf1GdWkQ\nU1WrEZMdTjbqSOUKf7fIYbT8u8edV3gBP+GQ64bx/GaUYgmsbgr597MQmbZ+FZ4w\na5Pw6waSFFLgkEudvjMVCFN0vQKBgQDpybQ+icCzrL9zGOlHZRyn30Xdp4J92xXl\nAAWtp4oNAGdVHRpXX/vooQgk3aRzQQzcX1gCzslHIthtVgmGEDzGemrUJYdpQWH+\n03x32J1yBIi5/UPCPnKVIOim1pHdXGR/WYND7Vuk6kvgPsCCI7wYUYWGzzbkJEWz\nNM/pRNZTswKBgQDbL7sbhgUSHNDyEcT3+mRAvwc+vZr8xvy22u3GtSpYK8X6yGGK\n4gDGU2zGKJWcGpaYNN59oLD7+hmQ3X+I1Wj0QVVlRfmGZRfmXQdXFAZ67QQvhWyG\nUEWXLNqcH0eE3DQYnHCRVILMSM49Oyn3mg/A8r6K2CVhYZaw/mGkXCFRUQKBgFvE\nliDaN68PhxLp21/v+6CVjroj75/xaJW8PX5dvl2+I9GQG+/iOGKnGyhFbDDlfuPd\n9REdFHr83ZGFbTWXmBOcp+RgWtfhF1NMtpXgjGTeDMFc/cT4eEe7ZDdhEF6gzr4C\nZ/k46XlBkskSOMScvE+baFtzaSuCZW2jtFzvbWXrAoGAHnaqpfSecKH1NWjrrnb9\nTvqM64BSjESEH516HnNUEh9PKJXS/ATY2D6zRza3VotxMNdIhYuvwutNfmXHWa9D\nEiBUwNvF2BVCUisJSrjG+OrBnamYkb8w9vg2VH8xrqzCCt5tlxekVd9YkCygK6Xs\nX4KIcqaf4EFbVpYTYpTpIrk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nafanya-bot@nafan-bot.iam.gserviceaccount.com",
+  "client_id": "109597125288646751717",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nafanya-bot%40nafan-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
